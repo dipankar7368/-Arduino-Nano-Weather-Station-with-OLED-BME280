@@ -1,7 +1,5 @@
 # 🌦️ Arduino Nano Weather Station with OLED & BME280
 
-# 🌦️ Arduino Nano Weather Station with OLED & BME280
-
 A compact DIY weather monitoring project using an **Arduino Nano**, **0.91-inch I2C OLED display**, and **BME280 environmental sensor**. The system measures and displays real-time temperature, relative humidity, and barometric pressure on a small OLED screen.
 
 ## ✨ Features
