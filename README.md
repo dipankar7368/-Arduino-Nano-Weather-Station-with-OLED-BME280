@@ -90,4 +90,4 @@ This project is available under the MIT License. Add a `LICENSE` file to the rep
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
-**Built with ❤️ using Arduino and DIY electronics.**
+**Built with ❤️ Dipankar Bhunia.**
